@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cee421ea-5128-4ea3-ab56-7ee6e7be8fdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Esercizi/Ex1 Triangoli/grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Esercizi/Ex1 Triangoli/program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Esercizi/Ex1 Triangoli/testlib.py" afterDir="false" />
+    <list default="true" id="cee421ea-5128-4ea3-ab56-7ee6e7be8fdc" name="Changes" comment="Ex1 Triangoli">
+      <change afterPath="$PROJECT_DIR$/Laboratorio/20221026/esercizi05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fondamenti di Programmazione.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fondamenti di Programmazione.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Esercizio 1/ex_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Esercizi/Esercizio stringhe 1/ex_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +36,59 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Laboratorio/20221026" />
       <recent name="$PROJECT_DIR$/Esercizi/Ex1 Triangoli" />
       <recent name="$PROJECT_DIR$/Esercizi/Esercizio stringhe 1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.esercizi05">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Fondamenti di Programmazione" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="esercizi05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fondamenti di Programmazione" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Laboratorio/20221026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laboratorio/20221026/esercizi05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="grade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fondamenti di Programmazione" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.esercizi05" />
         <item itemvalue="Python.grade" />
       </list>
     </recent_temporary>
@@ -90,8 +132,17 @@
       <workItem from="1665583992422" duration="104000" />
       <workItem from="1665584149121" duration="40000" />
       <workItem from="1665584222733" duration="296000" />
-      <workItem from="1665753029607" duration="3083000" />
+      <workItem from="1665753029607" duration="3149000" />
+      <workItem from="1666722354637" duration="6438000" />
     </task>
+    <task id="LOCAL-00001" summary="Ex1 Triangoli">
+      <created>1665763540141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665763540141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +158,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex1 Triangoli" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex1 Triangoli" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fondamenti_di_programmazione$grade.coverage" NAME="grade Coverage Results" MODIFIED="1665755645780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esercizi/Ex1 Triangoli" />
