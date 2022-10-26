@@ -142,7 +142,20 @@ def merge_dict(dictionaries: List[dict]) -> dict:
 # un dizionario le cui chiavi sono quelle presenti in tutti i dizionari e i cui
 # valori sono la lista di valori delle relative chiavi. Si possono usare i set.
 def intersect_dict(dictionaries: List[dict]) -> dict:
-    pass
+    res = {}
+    for d in dictionaries:
+        for key, val in d.items():
+            if key in res.keys():
+                res[key].append(val)
+            else:
+                res[key] = [val]
+    dels = []
+    for key, val in res.items():
+        if len(val) == 1:
+            dels.append(key)
+    for el in dels:
+        del res[el]
+    return res
 
 
 # Test funzioni
