@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cee421ea-5128-4ea3-ab56-7ee6e7be8fdc" name="Changes" comment="Ex1 Triangoli">
-      <change afterPath="$PROJECT_DIR$/Laboratorio/20221026/esercizi05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Fondamenti di Programmazione.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fondamenti di Programmazione.iml" afterDir="false" />
+    <list default="true" id="cee421ea-5128-4ea3-ab56-7ee6e7be8fdc" name="Changes" comment="Esercizi 5 Completi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,20 +24,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/michele/PycharmProjects/Fondamenti di Programmazione",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michele/PycharmProjects/Fondamenti di Programmazione&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Laboratorio/20221026" />
@@ -133,7 +130,8 @@
       <workItem from="1665584149121" duration="40000" />
       <workItem from="1665584222733" duration="296000" />
       <workItem from="1665753029607" duration="3149000" />
-      <workItem from="1666722354637" duration="6438000" />
+      <workItem from="1666722354637" duration="6466000" />
+      <workItem from="1666773968222" duration="483000" />
     </task>
     <task id="LOCAL-00001" summary="Ex1 Triangoli">
       <created>1665763540141</created>
@@ -142,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665763540141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Esercizi 5">
+      <created>1666728945822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666728945822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Esercizi 5 Completi">
+      <created>1666774461747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666774461747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +173,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex1 Triangoli" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex1 Triangoli" />
+    <MESSAGE value="Esercizi 5" />
+    <MESSAGE value="Esercizi 5 Completi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizi 5 Completi" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fondamenti_di_programmazione$grade.coverage" NAME="grade Coverage Results" MODIFIED="1665755645780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esercizi/Ex1 Triangoli" />
